@@ -12,7 +12,7 @@ _This website is set up to intake your answers and give you a programming track 
 
 * _Open terminal_
 * _Input git clone https://github.com/chrishuson1986/index2.git_
-* _Open index.html from desktop_
+* _Open index2.html from desktop_
 *_Input your answers and submit_
 * _enjoy_
 
