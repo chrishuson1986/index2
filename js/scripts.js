@@ -11,6 +11,7 @@ $(document).ready(function() {
       $("#result3").hide();
       $("#form-quiz").hide();
       $("#form-dummy").hide();
+      
     }
     else  if ((q1==="very") && (q2==="fast") && (q3==="computer")) {
       $("#result1").show();
