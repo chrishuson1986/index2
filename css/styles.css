@@ -19,17 +19,6 @@ h2{
   padding: 20px;
   background-color: #b3bdce;
 }
-.pic1{
-  float: right;
-}
-.town{
-  font-weight: bold;
-}
-.pic{float: right;
-}
-.jumbotron ul{
-  font-weight: bolder;
-}
 #result1 {
   display: none;
 }

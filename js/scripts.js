@@ -11,19 +11,19 @@ $(document).ready(function() {
       $("#result3").hide();
       $("#form-quiz").hide();
       $("#form-dummy").hide();
-      
+
     }
     else  if ((q1==="very") && (q2==="fast") && (q3==="computer")) {
-      $("#result1").show();
-      $("#result2").hide();
+      $("#result1").hide();
+      $("#result2").show();
       $("#result3").hide();
       $("#form-quiz").hide();
       $("#form-dummy").hide();
     }
     else if ((q1==="very") && (q2==="slow") && (q3==="mobile")) {
-      $("#result1").show();
+      $("#result1").hide();
       $("#result2").hide();
-      $("#result3").hide();
+      $("#result3").show();
       $("#form-quiz").hide();
       $("#form-dummy").hide();
     }
@@ -35,16 +35,16 @@ $(document).ready(function() {
       $("#form-dummy").hide();
     }
     else if ((q1==="less") && (q2==="fast") && (q3==="mobile")) {
-      $("#result1").show();
-      $("#result2").hide();
+      $("#result1").hide();
+      $("#result2").show();
       $("#result3").hide();
       $("#form-quiz").hide();
       $("#form-dummy").hide();
     }
     else if ((q1==="less") && (q2==="fast") && (q3==="computer")) {
-      $("#result1").show();
+      $("#result1").hide();
       $("#result2").hide();
-      $("#result3").hide();
+      $("#result3").show();
       $("#form-quiz").hide();
       $("#form-dummy").hide();
     }
@@ -56,8 +56,8 @@ $(document).ready(function() {
       $("#form-dummy").hide();
     }
     else if ((q1==="less") && (q2==="slow") && (q3==="computer")) {
-      $("#result1").show();
-      $("#result2").hide();
+      $("#result1").hide();
+      $("#result2").show();
       $("#result3").hide();
       $("#form-quiz").hide();
       $("#form-dummy").hide();
