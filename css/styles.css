@@ -1,3 +1,44 @@
+body{
+  background-color: #4f79bc;
+}
+h1{
+  text-align: center;
+  color: #a1a5ad;
+  font-size: 50px;
+}
+h2{
+  text-align: center;
+  color: #a1a5ad;
+  font-size: 40px;
+}
+.jumbotron{
+  float: left;
+  border-style: solid;
+  border-width: 5px;
+  margin-right: 50px;
+  padding: 20px;
+  background-color: #b3bdce;
+}
+.pic1{
+  float: right;
+}
+.town{
+  font-weight: bold;
+}
+.jumbotron {
+  float: left;
+  border-style: solid;
+  border-width: 5px;
+  margin: 50px;
+  padding: 20px;
+  background-color: #b3bdce;
+
+}
+.pic{float: right;
+}
+.jumbotron ul{
+  font-weight: bolder;
+}
 #result1 {
   display: none;
 }
